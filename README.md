@@ -1,7 +1,6 @@
-# cloudbin 
+# cloudhost
 
-[![david-dm](https://david-dm.org/tehKapa/cloudbin.svg)](https://david-dm.org/tehKapa/cloudbin)
-[![Greenkeeper badge](https://badges.greenkeeper.io/tehKapa/cloudbin.svg)](https://greenkeeper.io/)
+[![david-dm](https://david-dm.org/tehKapa/cloudhost.svg)](https://david-dm.org/tehKapa/cloudhost)
+[![Greenkeeper badge](https://badges.greenkeeper.io/tehKapa/cloudhost.svg)](https://greenkeeper.io/)
 
-
-cloudBin.host useless landing page
+cloudhost.zone useless landing page
