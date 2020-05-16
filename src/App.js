@@ -1,7 +1,6 @@
 import React from "react";
 import logo from "./cloudhost.zone.svg";
 import "./App.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function App() {
   return (
@@ -9,10 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <code>
-            <FontAwesomeIcon icon={["fas", "fa-cloud"]} />
-            host.zone
-          </code>
+          <code>cloudHost.zone</code>
           <br />
           host your ideas
         </p>
