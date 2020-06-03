@@ -6,7 +6,8 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "snyk": "^1.334.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,7 +16,9 @@
     "eject": "react-scripts eject",
     "now-dev": "react-scripts start",
     "now-build": "react-scripts build",
-    "update": "npx npm -check -u"
+    "update": "npx npm -check -u",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,5 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "snyk": true
 }
